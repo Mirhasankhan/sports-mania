@@ -1,0 +1,20 @@
+.display-leagues img{
+    height: 100px;
+}
+.display-leagues{
+    float: left;
+    border: 2px solid gold;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;    
+    width: 27%; 
+    background-color: white;
+    color: black;
+}
+.main-button{
+    border: 1px solid blue;
+    color: white;
+    background-color: blue;
+    padding: 7px;
+    width: 100px;
+}
