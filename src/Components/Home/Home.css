@@ -1,8 +1,11 @@
-.display-header{
+/* .display-header{
     height: 200px;
     color: white;
-    background-color: black;
-}
-.display-header h2{
-    padding: 50px;
+    
+} */
+h1{
+    padding: 200px;
+    color: white;
+    text-size-adjust: 200px;
+    
 }

@@ -1,10 +1,12 @@
 import React from 'react';
 import './League.css';
 // import { Button } from 'react-bootstrap';
+
 import { Link } from 'react-router-dom';
 
 const League = (props) => {
    const {strLeague, strSport, idLeague} = props.tournament;
+   
 
     return (
         <div className="display-leagues">
